@@ -2,25 +2,23 @@
 
 # Alex's cool Rails project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a my, Alex Very Cool guy (TM), Rails 5 application that allows users to create their own project.
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+- Real time chat engine for comments
+- Blog 
+- Portfolio
+- Drag and drop interface
 
-* System dependencies
+### Code Example
 
-* Configuration
+```ruby 
+def my_cool_method
+	puts "Here it is"
+end
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+alert('Get to the choppa!');
+```
