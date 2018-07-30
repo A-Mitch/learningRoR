@@ -1,3 +1,4 @@
+system("node .github/setup.js")
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
